@@ -2,14 +2,23 @@
 Plugin: Price based on the products quantity for Woocommerce
 
 === Simple Product Discounts ===
+
 Contributors: prizzrak
+
 Donate link: https://github.com/Prizzrakk
+
 Tags: woocommerce, products, price, discount, quantity
+
 Requires at least: 4.4.1
+
 Tested up to: 5.7.1
+
 Requires PHP: 7.2
+
 Stable tag: 1.0.0
+
 License: GPLv2 or later
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Product price based on the products quantity for Woocommerce.
@@ -54,15 +63,19 @@ Simple Product Discounts is translated into russian language. Help localize the 
 
 If you find this plugin useful and if you want to contribute, you can:
 
-	1. Submit your bug reports, suggestions and requests for features on [GitHub](https://github.com/Prizzrakk/Simple-Product-Discount-for-WC);
+  1. Submit your bug reports, suggestions and requests for features on [GitHub](https://github.com/Prizzrakk/Simple-Product-Discount-for-WC);
 
   2. Translate it to your language and send me a file.
 
   3. Make any donation to:
-		USDT (TRC20) TYBAq6u6Dtr9jv2WFuK2Nkw46mAHZMWrbM
-		ETH 0x07ea7510ba391fb54473def4c73e819790b7e76c
-		PM U33008786, E33086293
-		WMR315187737756, WMZ832127573536
+
+  USDT (TRC20) TYBAq6u6Dtr9jv2WFuK2Nkw46mAHZMWrbM
+
+  ETH 0x07ea7510ba391fb54473def4c73e819790b7e76c
+
+  PM U33008786, E33086293
+
+  WMR315187737756, WMZ832127573536
 
 == Changelog ==
 
