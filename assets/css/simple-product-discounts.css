@@ -1,0 +1,12 @@
+/* Simple Product Discounts Frontend CSS */
+
+.discount_price_group {display:block;max-width:320px;margin: 30px 0;}
+.discount_price_field {display:block;border: 1px dotted lightgray;border-bottom: none;padding: 3px 8px;}
+.discount_price_field:last-child {border-bottom: 1px dotted lightgray;}
+.discount_price_field:hover {background: #f1f1f1;}
+.discount_price_qty {display:inline-block; width: 50%;}
+.discount_price_prc {display:inline-block; text-align: right; width: 50%;}
+
+.discount_price_, .discount_total_ {clear:both; display:block; font-weight:700; line-height: 34px;}
+.discount_total_ {margin-bottom: 30px; }
+.discount_price_ .discount_price_title, .discount_total_ .discount_total_title {margin-right: 30px; display: inline-block;}

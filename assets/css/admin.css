@@ -1,0 +1,7 @@
+/* Simple Product Discounts admin CSS */
+
+.discount_field .form-field{display:inline-block;}
+.discount_field .form-field input{width: 99%!important;}
+.loaderimage {background: url('../images/loading.gif');width: 32px;height: 32px;display: none;position: absolute;}
+.discount_form p {font-size: 14px;}
+.simple_profuct_discount_clear_form {text-align: right;}

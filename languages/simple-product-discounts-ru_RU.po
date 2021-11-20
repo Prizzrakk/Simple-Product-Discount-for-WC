@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Product Discounts\n"
+"POT-Creation-Date: 2021-11-19 22:42+0600\n"
+"PO-Revision-Date: 2021-11-19 22:49+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: product-discount-qty.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: simple-product-discounts.php:147
+msgid "Simple Product Discounts based on Quantity"
+msgstr "Скидки на простые товары в зависимости от количества"
+
+#. Plugin Name of the plugin/theme
+#: simple-product-discounts.php:148
+msgid "Simple Product Discounts"
+msgstr ""
+
+#: simple-product-discounts.php:159
+#, php-format
+msgid ""
+"Thank you for using Simple Product Discounts plugin for %1$s days already. "
+"It would be great if you <a href=\"%2$s\">support</a> the author!"
+msgstr ""
+"Спасибо, что используете плагин Simple Product Discounts уже %1$s дней. "
+"Будет прекрасно, если вы <a href=\"%2$s\">поддержите</a> автора!"
+
+#: simple-product-discounts.php:174
+msgid "Plugin settings and all plugin data deleted!"
+msgstr "Настройки и данные плагина удалены!"
+
+#: simple-product-discounts.php:182
+msgid "Settings saved!"
+msgstr "Настройки сохранены!"
+
+#: simple-product-discounts.php:195
+msgid "Main settings"
+msgstr "Основные настройки"
+
+#: simple-product-discounts.php:199
+msgid "Activate Product Discounts"
+msgstr "Включить скидки на продукты"
+
+#: simple-product-discounts.php:203
+msgid "Max number of discount fields (default 10):"
+msgstr "Максимальное количество полей для скидок (по умолчанию 10):"
+
+#: simple-product-discounts.php:204
+msgid "Max number of discount fields"
+msgstr "Максимальное количество полей"
+
+#: simple-product-discounts.php:207
+msgid "Product page settings"
+msgstr "Настройки страницы товара"
+
+#: simple-product-discounts.php:209
+msgid "Location of discounts list:"
+msgstr "Положение списка со скидками:"
+
+#: simple-product-discounts.php:215
+msgid "Calculate and display total price after add to cart quantity"
+msgstr "Подсчитать и вывести общую цену после выбора количества товара"
+
+#: simple-product-discounts.php:219
+msgid "Cart/checkout page settings"
+msgstr "Настройки корзины и страницы оформления заказа"
+
+#: simple-product-discounts.php:223
+msgid ""
+"Use default output of price and total price for each product in cart and "
+"checkout"
+msgstr ""
+"Использовать вывод по умолчанию для цены и общей стоимости в корзине и на "
+"странице оформления заказа\n"
+"(не показывать перечеркнутую цену без скидки)"
+
+#: simple-product-discounts.php:227
+msgid "Save"
+msgstr "Сохранить"
+
+#: simple-product-discounts.php:232
+msgid ""
+"Clear all data - will delete plugin settings and all made discounts for all "
+"products!"
+msgstr ""
+"Удалить все данные - удалит настройки плагина и все внесенные скидки для "
+"всех товаров!"
+
+#: simple-product-discounts.php:234
+msgid "! Clear all data !"
+msgstr "! Удалить все данные !"
+
+#: simple-product-discounts.php:238
+msgid "Woocommerce not found! Install Woocommerce to use plugin."
+msgstr ""
+"Woocommerce не найден! Установите Woocommerce, чтобы использовать плагин."
+
+#: simple-product-discounts.php:252
+msgid "After price"
+msgstr "После цены"
+
+#: simple-product-discounts.php:258
+msgid "Before add to cart form"
+msgstr "До формы добавления в корзину"
+
+#: simple-product-discounts.php:264
+msgid "After add to cart button"
+msgstr "После кнопки добавить в корзину"
+
+#: simple-product-discounts.php:270
+msgid "After add to cart form"
+msgstr "После формы добавления в корзину"
+
+#: simple-product-discounts.php:276
+msgid "Custom (template tag) use:"
+msgstr "Пользовательское использование (тег шаблона):"
+
+#: simple-product-discounts.php:289 simple-product-discounts.php:339
+msgid "Amount, from"
+msgstr "Количество, от"
+
+#: simple-product-discounts.php:290 simple-product-discounts.php:340
+msgid "Quantity of goods"
+msgstr "Количество товара"
+
+#: simple-product-discounts.php:292 simple-product-discounts.php:345
+#: simple-product-discounts.php:423
+msgid "Price"
+msgstr "Цена"
+
+#: simple-product-discounts.php:293 simple-product-discounts.php:346
+msgid "Discounted price"
+msgstr "Цена со скидкой"
+
+#: simple-product-discounts.php:327
+msgid "Price based on the quantity"
+msgstr "Цена в зависимости от количества"
+
+#: simple-product-discounts.php:354
+msgid "Add field"
+msgstr "Добавить поле"
+
+#: simple-product-discounts.php:355
+msgid "Update fields"
+msgstr "Обновить"
+
+#: simple-product-discounts.php:429
+msgid "Total"
+msgstr "Всего"
+
+#: simple-product-discounts.php:443
+msgid "From "
+msgstr "От "
+
+#: simple-product-discounts.php:444
+msgid " pcs."
+msgstr " шт."
+
+#: simple-product-discounts.php:527
+msgid "Support"
+msgstr "Поддержать"
+
+#: simple-product-discounts.php:535
+msgid "Settings"
+msgstr "Настройки"
+
+#. Description of the plugin/theme
+msgid "Product price based on the products quantity for Woocommerce."
+msgstr "Цена товара в зависимости от количества."
+
+#. Author of the plugin/theme
+msgid "Prizzrak"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/Prizzrakk"
+msgstr ""
+
+#~ msgid ""
+#~ "You are currently using Simple Product Discounts plugin for %1$s days. It "
+#~ "would be great if you <a href=\"%2$s\">support</a> the author!"
+#~ msgstr ""
+#~ "Вы используете плагин Simple Product Discounts %1$s дней. Будет "
+#~ "прекрасно, если вы <a href=\"%2$s\">поддержите</a> автора!"
+
+#~ msgid "Use default output of price and total price for each product in cart"
+#~ msgstr ""
+#~ "Испльзовать изначальный вывод цены и суммы для каждого продукта в корзине"
+
+#~ msgid "Use default output of total price for each product on checkout page"
+#~ msgstr ""
+#~ "Испльзовать изначальный вывод суммы для каждого продукта на странице "
+#~ "подтверждения заказа"

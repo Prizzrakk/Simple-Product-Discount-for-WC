@@ -1,0 +1,182 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Simple Product Discounts\n"
+"POT-Creation-Date: 2021-11-19 22:42+0600\n"
+"PO-Revision-Date: 2021-11-18 21:46+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: simple-product-discounts.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: simple-product-discounts.php:147
+msgid "Simple Product Discounts based on Quantity"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: simple-product-discounts.php:148
+msgid "Simple Product Discounts"
+msgstr ""
+
+#: simple-product-discounts.php:159
+#, php-format
+msgid ""
+"Thank you for using Simple Product Discounts plugin for %1$s days already. "
+"It would be great if you <a href=\"%2$s\">support</a> the author!"
+msgstr ""
+
+#: simple-product-discounts.php:174
+msgid "Plugin settings and all plugin data deleted!"
+msgstr ""
+
+#: simple-product-discounts.php:182
+msgid "Settings saved!"
+msgstr ""
+
+#: simple-product-discounts.php:195
+msgid "Main settings"
+msgstr ""
+
+#: simple-product-discounts.php:199
+msgid "Activate Product Discounts"
+msgstr ""
+
+#: simple-product-discounts.php:203
+msgid "Max number of discount fields (default 10):"
+msgstr ""
+
+#: simple-product-discounts.php:204
+msgid "Max number of discount fields"
+msgstr ""
+
+#: simple-product-discounts.php:207
+msgid "Product page settings"
+msgstr ""
+
+#: simple-product-discounts.php:209
+msgid "Location of discounts list:"
+msgstr ""
+
+#: simple-product-discounts.php:215
+msgid "Calculate and display total price after add to cart quantity"
+msgstr ""
+
+#: simple-product-discounts.php:219
+msgid "Cart/checkout page settings"
+msgstr ""
+
+#: simple-product-discounts.php:223
+msgid ""
+"Use default output of price and total price for each product in cart and "
+"checkout"
+msgstr ""
+
+#: simple-product-discounts.php:227
+msgid "Save"
+msgstr ""
+
+#: simple-product-discounts.php:232
+msgid ""
+"Clear all data - will delete plugin settings and all made discounts for "
+"all products!"
+msgstr ""
+
+#: simple-product-discounts.php:234
+msgid "! Clear all data !"
+msgstr ""
+
+#: simple-product-discounts.php:238
+msgid "Woocommerce not found! Install Woocommerce to use plugin."
+msgstr ""
+
+#: simple-product-discounts.php:252
+msgid "After price"
+msgstr ""
+
+#: simple-product-discounts.php:258
+msgid "Before add to cart form"
+msgstr ""
+
+#: simple-product-discounts.php:264
+msgid "After add to cart button"
+msgstr ""
+
+#: simple-product-discounts.php:270
+msgid "After add to cart form"
+msgstr ""
+
+#: simple-product-discounts.php:276
+msgid "Custom (template tag) use:"
+msgstr ""
+
+#: simple-product-discounts.php:289 simple-product-discounts.php:339
+msgid "Amount, from"
+msgstr ""
+
+#: simple-product-discounts.php:290 simple-product-discounts.php:340
+msgid "Quantity of goods"
+msgstr ""
+
+#: simple-product-discounts.php:292 simple-product-discounts.php:345
+#: simple-product-discounts.php:423
+msgid "Price"
+msgstr ""
+
+#: simple-product-discounts.php:293 simple-product-discounts.php:346
+msgid "Discounted price"
+msgstr ""
+
+#: simple-product-discounts.php:327
+msgid "Price based on the quantity"
+msgstr ""
+
+#: simple-product-discounts.php:354
+msgid "Add field"
+msgstr ""
+
+#: simple-product-discounts.php:355
+msgid "Update fields"
+msgstr ""
+
+#: simple-product-discounts.php:429
+msgid "Total"
+msgstr ""
+
+#: simple-product-discounts.php:443
+msgid "From "
+msgstr ""
+
+#: simple-product-discounts.php:444
+msgid " pcs."
+msgstr ""
+
+#: simple-product-discounts.php:527
+msgid "Support"
+msgstr ""
+
+#: simple-product-discounts.php:535
+msgid "Settings"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Product price based on the products quantity for Woocommerce."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Prizzrak"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/Prizzrakk"
+msgstr ""
